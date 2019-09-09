@@ -124,6 +124,6 @@ dmypy.json
 .pyre/
 
 # ignore the webpage
-.png
-.html
-.css
+*.png
+*.html
+*.css
